@@ -1,9 +1,12 @@
 Git helps in version control
 	git init // initializes a git repository
+	git diff // check changes in files
 	git add  // stage the files for commit
 	git commit // commit the files 
 	git log  // check commits 
 	git status // check status of local repository
+	git stash // safely store uncommitted changes
+	git reset // manouveour between commits
 
 Git helps multiple people to work together
 
