@@ -1,0 +1,9 @@
+Git helps in version control
+	git init
+	git add
+	git commit
+	git log
+
+Git helps multiple people to work together
+
+Git maintains common repository
