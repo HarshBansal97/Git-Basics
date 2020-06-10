@@ -1,8 +1,9 @@
 Git helps in version control
-	git init
-	git add
-	git commit
-	git log
+	git init // initializes a git repository
+	git add  // stage the files for commit
+	git commit // commit the files 
+	git log  // check commits 
+	git status // check status of local repository
 
 Git helps multiple people to work together
 
